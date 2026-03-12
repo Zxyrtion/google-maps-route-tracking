@@ -35,4 +35,4 @@ http://localhost/google-maps-route-tracking
 ## Author
 Name: Dave Dela Cerna  
 Course: BSIT  
-Year/Section: (Your Section Here)
+Year/Section: 3rd Year
